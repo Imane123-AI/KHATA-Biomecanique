@@ -1,9 +1,13 @@
-﻿node_modules/
-.env
+﻿venv/
+venv311/
 __pycache__/
 *.pyc
-venv/
-*.pkl
 *.pth
+*.pkl
 *.npy
+*.mat
 data/
+frontend/node_modules/
+frontend/build/
+resultats/poster/
+.env
